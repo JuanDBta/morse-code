@@ -96,6 +96,13 @@ You can deploy this project using:<br>[Coming Soon!!!](https://github.com/JuanDB
 
 ## 👥 Authors <a name="authors"></a>
 
+👤 **Micronaut Betel Andarge**
+
+- GitHub: [@beteland123](https://github.com/beteland123)
+- Twitter: [@betelandarge](https://twitter.com/BetelAndarge)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/betelandarge)
+
+
 👤 **Micronaut JUAN DAVID DIAZ**
 
 - GitHub: [@JuanDBta](https://github.com/JuanDBta)
