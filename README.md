@@ -36,7 +36,7 @@
 
 1- Ruby<br>
 2- Gitflow
-3- Linters
+3- Rubocop
 
 ### Tech Stack <a name="tech-stack"></a>
 
