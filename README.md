@@ -35,7 +35,7 @@
 ## 🛠 Built With <a name="built-with"></a>
 
 1- Ruby<br>
-2- Gitflow
+2- Gitflow<br>
 3- Rubocop
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -127,6 +127,18 @@ If you like this project, please give me a like, it doesn't cost you anything an
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank Bee in Student Success who is always avalaible to solve issues and Microverse for push us to work hard every day!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ❓ FAQ <a name="faq"></a>
+
+- **["How can I see more projects associated with this author?"]**
+
+  - Check my [GitHub profile](https://github.com/JuanDBta)
+
+- **[How can I contact the author of this project?]**
+
+  - Check my [LinkedIn profile](https://linkedin.com/in/simplebet/) or email me at simplebetsas@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
